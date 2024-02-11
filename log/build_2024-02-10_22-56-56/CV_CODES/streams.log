@@ -1,0 +1,25 @@
+[0.412s] Invoking command in '/home/rishith/MRT_ASSIGNMENT_3/src/CV_CODES': PYTHONPATH=/home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/prefix_override:/home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/CV_CODES build --build-base /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/build install --record /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/install.log --single-version-externally-managed
+[0.543s] running egg_info
+[0.544s] writing ../../build/CV_CODES/CV_CODES.egg-info/PKG-INFO
+[0.544s] writing dependency_links to ../../build/CV_CODES/CV_CODES.egg-info/dependency_links.txt
+[0.544s] writing entry points to ../../build/CV_CODES/CV_CODES.egg-info/entry_points.txt
+[0.544s] writing requirements to ../../build/CV_CODES/CV_CODES.egg-info/requires.txt
+[0.544s] writing top-level names to ../../build/CV_CODES/CV_CODES.egg-info/top_level.txt
+[0.545s] reading manifest file '../../build/CV_CODES/CV_CODES.egg-info/SOURCES.txt'
+[0.545s] writing manifest file '../../build/CV_CODES/CV_CODES.egg-info/SOURCES.txt'
+[0.545s] running build
+[0.545s] running build_py
+[0.546s] copying CV_CODES/subscriber.py -> /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/build/lib/CV_CODES
+[0.546s] running install
+[0.546s] running install_lib
+[0.546s] copying /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/build/lib/CV_CODES/subscriber.py -> /home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages/CV_CODES
+[0.547s] byte-compiling /home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages/CV_CODES/subscriber.py to subscriber.cpython-310.pyc
+[0.547s] running install_data
+[0.547s] running install_egg_info
+[0.548s] removing '/home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages/CV_CODES-0.0.0-py3.10.egg-info' (and everything under it)
+[0.548s] Copying ../../build/CV_CODES/CV_CODES.egg-info to /home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages/CV_CODES-0.0.0-py3.10.egg-info
+[0.549s] running install_scripts
+[0.562s] Installing publisher script to /home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/CV_CODES
+[0.562s] Installing subscriber script to /home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/CV_CODES
+[0.562s] writing list of installed files to '/home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/install.log'
+[0.577s] Invoked command in '/home/rishith/MRT_ASSIGNMENT_3/src/CV_CODES' returned '0': PYTHONPATH=/home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/prefix_override:/home/rishith/MRT_ASSIGNMENT_3/install/CV_CODES/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/CV_CODES build --build-base /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/build install --record /home/rishith/MRT_ASSIGNMENT_3/build/CV_CODES/install.log --single-version-externally-managed

@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = CV_CODES.publisher:main
+subscriber = CV_CODES.subscriber:main
+
